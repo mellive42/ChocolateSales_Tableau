@@ -19,3 +19,4 @@ From within sales.csv, Store ID was connected to Store Id in stores.csv
 
 # Sales
 <img width="903" height="655" alt="image" src="https://github.com/user-attachments/assets/da89a244-9d0d-4a01-a095-c7de35250e39" />
+
