@@ -7,16 +7,14 @@ From within sales.csv, Product ID was connected to Product ID in products.csv
 <br>From within sales.csv, Store ID was connected to Store Id in stores.csv
 <img width="1908" height="717" alt="image" src="https://github.com/user-attachments/assets/392a678c-ed9d-446d-9995-65ad7713ac01" />
 
-
-# Dashboard breakdown
-# Store locations
+# Store locations in dashboard
 <img width="1263" height="639" alt="image" src="https://github.com/user-attachments/assets/41092632-5449-4808-a494-d788d14aff8d" />
 
 
-# Client demographics
+# Client demographics in dashboard
 <img width="842" height="501" alt="image" src="https://github.com/user-attachments/assets/d5fbb24f-3aea-4ac6-9c5f-f08b3d0b37f1" />
 
 
-# Sales
+# Sales in dashboard
 <img width="903" height="655" alt="image" src="https://github.com/user-attachments/assets/da89a244-9d0d-4a01-a095-c7de35250e39" />
 
