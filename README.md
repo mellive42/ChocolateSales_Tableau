@@ -1,5 +1,5 @@
 # Chocolate Sales in Tableau
-This project showcases a Tableau dashboard analyzing two years of chocolate sales data. The dataset is dummy data sourced from Kaggle. This is meant to simulate a real-world retail scenario. Below I've shared pics of the dashboard. However, if you prefer to personally visualize the data I've attached the Kaggle files I used for this, as well as the packaged workbook from Tableau (see in releases as this file in larger than github allows).
+This project showcases a Tableau dashboard analyzing two years of chocolate sales data. The dataset is dummy data sourced from Kaggle. This is meant to simulate a real-world retail scenario. Below I've shared pics of the dashboard. However, if you prefer to personally visualize the data I've attached the Kaggle files I used for this, as well as the packaged workbook from Tableau (see in releases as this file in larger than github uploaded files allows).
 
 # Data source
 From within sales.csv, Product ID was connected to Product ID in products.csv
